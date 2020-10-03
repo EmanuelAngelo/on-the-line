@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+}
+
+body{
+    background: #282A36;
+    color: #FFF;
+}
+
+header{
+    padding: 28px;
+    border-bottom: 1px solid #333;
+    background: rgba(0, 0, 0, 0.247);
+}
+
+.links a{
+    margin: 0 16px;
+    color: #fff;
+    font-size: 18px;
+    line-height: 28px;
+    text-decoration: none;
+}
+
+.links a:hover{
+    color: var(--color-green);
+    transition: 400ms;
+}
