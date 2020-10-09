@@ -7,12 +7,14 @@
 body{
     background: #282A36;
     color: #FFF;
+    
 }
 
 header{
     padding: 28px;
     border-bottom: 1px solid #333;
     background: rgba(0, 0, 0, 0.247);
+    text-align: center;
 }
 
 .links a{
@@ -21,6 +23,7 @@ header{
     font-size: 18px;
     line-height: 28px;
     text-decoration: none;
+    
 }
 
 .links a:hover{
