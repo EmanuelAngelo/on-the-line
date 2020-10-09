@@ -17,6 +17,10 @@ header{
     text-align: center;
 }
 
+img{
+    text-align: left;
+}
+
 .links a{
     margin: 0 16px;
     color: #fff;
