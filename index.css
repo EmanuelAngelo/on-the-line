@@ -17,8 +17,10 @@ header{
     text-align: center;
 }
 
-img{
-    text-align: left;
+.imgs{     /*posicao da logo*/
+    position: absolute;
+    left: 90px;
+    top: 30px;
 }
 
 .links a{
