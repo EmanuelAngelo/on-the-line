@@ -63,7 +63,7 @@ section:nth-of-type(odd) {
     
 }
 section:nth-child(1) {
-    background-image: url(/img/dc.jpg);
+    background-image: url(img/dc.jpg);
     
 }
 section:nth-child(3) {
@@ -71,6 +71,6 @@ section:nth-child(3) {
     
 }
 section:nth-child(5) {
-    background-image: url(/img/dc3.jpg);
+    background-image: url(img/dc3.jpg);
     
 }
